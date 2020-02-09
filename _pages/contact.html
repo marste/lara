@@ -4,66 +4,39 @@ title: Contattami
 permalink: /contact/
 tags: contact
 ---
-<!-- modify this form HTML and place wherever you want your form -->
-
-<form id="my-form"
-  action="https://formspree.io/xoqdknnj"
-  method="POST"
->
-  <label>Email:</label>
-  <input type="email" name="email" />
-  <label>Message:</label>
-  <input type="text" name="message" />
-  <button id="my-form-button">Submit</button>
-  <p id="my-form-status"></p>
+<form class="wj-contact" action="https://formspree.io/xoqdknnj" method="POST">
+    <input type="text" name="email" placeholder="Email Address">
+    <textarea type="text" name="content" rows="10" placeholder="Message"></textarea>
+    <input type="hidden" name="_next" value="{{ site.baseurl }}/thanks/">
+    <input type="hidden" name="_subject" value="New Contact Form Submission">
+    <input type="text" name="_gotcha" style="display:none">
+    <input type="submit" value="Send">
 </form>
 
-<!-- Place this script at the end of the body tag -->
-
-<script>
-  window.addEventListener("DOMContentLoaded", function() {
-
-    // get the form elements defined in your form HTML above
-    
-    var form = document.getElementById("my-form");
-    var button = document.getElementById("my-form-button");
-    var status = document.getElementById("my-form-status");
-
-    // Success and Error functions for after the form is submitted
-    
-    function success() {
-      form.reset();
-      button.style = "display: none ";
-      status.innerHTML = "Thanks!";
-    }
-
-    function error() {
-      status.innerHTML = "Oops! There was a problem.";
-    }
-
-    // handle the form submission event
-
-    form.addEventListener("submit", function(ev) {
-      ev.preventDefault();
-      var data = new FormData(form);
-      ajax(form.method, form.action, data, success, error);
-    });
-  });
-  
-  // helper function for sending an AJAX request
-
-  function ajax(method, url, data, success, error) {
-    var xhr = new XMLHttpRequest();
-    xhr.open(method, url);
-    xhr.setRequestHeader("Accept", "application/json");
-    xhr.onreadystatechange = function() {
-      if (xhr.readyState !== XMLHttpRequest.DONE) return;
-      if (xhr.status === 200) {
-        success(xhr.response, xhr.responseType);
-      } else {
-        error(xhr.status, xhr.response, xhr.responseType);
-      }
-    };
-    xhr.send(data);
-  }
-</script>
+<style>
+form.wj-contact input[type="text"], form.wj-contact textarea[type="text"] {
+    width: 100%;
+    vertical-align: middle;
+    margin-top: 0.25em;
+    margin-bottom: 0.5em;
+    padding: 0.75em;
+    font-family: monospace, sans-serif;
+    font-weight: lighter;
+    border-style: solid;
+    border-color: #444;
+    outline-color: #1da1f2;
+    border-width: 1px;
+    border-radius: 3px;
+    transition: box-shadow .2s ease;
+}
+form.wj-contact input[type="submit"] {
+    outline: none;
+    color: white;
+    background-color: #1da1f2;
+    border-radius: 3px;
+    padding: 0.5em;
+    margin: 0.25em 0 0 0;
+    border: 1px solid transparent;
+    height: auto;
+}
+</style>
