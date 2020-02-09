@@ -7,6 +7,7 @@ share-img: corona.png
 date: 2020-02-08 12:55:00 +0200
 categories: [Classici]
 description:
+author: Lara Porrini
 tag: [3 anni, Herve, suoni, Tullet]
 ---
 > Editore: Franco Cosimo Panini Editore (2017) – n. pagine: 68 – traduttore: F. Previati   
