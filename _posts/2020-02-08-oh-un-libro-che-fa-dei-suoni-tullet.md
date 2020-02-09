@@ -2,6 +2,8 @@
 layout: post
 title: "OH! Un libro che fa dei suoni – Hervè Tullet"
 img: OH-Un-libro-che-fa-dei-suoni.jpg
+image: 'corona.png'
+share-img: 'corona.png'
 date: 2020-02-08 12:55:00 +0200
 categories: [Classici]
 description:
