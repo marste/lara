@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "OH! Un libro che fa dei suoni – Hervè Tullet"
-img: OH-Un-libro-che-fa-dei-suoni.jpg # Add image post (optional)
+img: OH-Un-libro-che-fa-dei-suoni.jpg
 date: 2020-02-08 12:55:00 +0200
 categories: [Classici]
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+description:
 tag: [3 anni, Herve, suoni, Tullet]
 ---
 > Editore: Franco Cosimo Panini Editore (2017) – n. pagine: 68 – traduttore: F. Previati   

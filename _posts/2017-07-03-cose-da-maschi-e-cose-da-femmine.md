@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Cose da maschi e cose da femmine… …!"
+title: "Cose da maschi e cose da femmine…!"
 date:   2017-08-25 13:32:20 +0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+description:
 img: biancaneve-min.jpg
 tags: [3 anni, 5 anni, 8 marzo, autenticità, biancaneve, parità, ruoli, stereotipi]
 author: Lara

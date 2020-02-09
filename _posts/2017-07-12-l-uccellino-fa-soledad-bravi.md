@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "L’uccellino fa… – Soledad Bravi"
-img: l-uccellino-fa.jpg # Add image post (optional)
+img: l-uccellino-fa.jpg
 date: 2020-02-08 12:52:00 +0200
 categories: [Storie di latte]
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+description:
 tag: [Solead, Bravi, uccellino]
 ---
 > Editore: Babalibri – n. pagine: 120 (2005) – traduttore: F.Rocca   

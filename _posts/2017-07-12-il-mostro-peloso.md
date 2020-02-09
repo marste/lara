@@ -4,7 +4,7 @@ title: "Il mostro peloso – H. Bichonnier e PEF"
 img: il-mostro-peloso.jpg # Add image post (optional)
 date: 2017-07-12 12:54:00 +0200
 categories: [Coperte e copertine]
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+description:
 tag: [3 anni, mostro, peloso, Bichonnier]
 ---
 > Editore: Emme edizioni – n. pagine: 36 (2014) – traduttore: G. Lughi   

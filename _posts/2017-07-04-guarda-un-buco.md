@@ -4,7 +4,7 @@ title: "Guarda c’è un buco… – A. Abbatiello e G. Mantegazza"
 img: guarda_ce_un_buco.jpg
 date: 2017-07-04 12:54:00 +0300
 categories: [Storie di latte]
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+description:
 tag: [0 anni, 3 anni, rime, buco]
 ---
 > Editore: La Coccinella – n. pagine: 24 (2014)   
