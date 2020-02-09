@@ -15,17 +15,17 @@ email: # Add your Email address
 phone: # Add your Phone number
 website: https://www.ceraunavoltaunre.it
 linkedin: # Add your Linkedin handle
-github: artemsheludko # Add your Github handle
-twitter: '@artemsheludko_' # Add your Twitter handle
+github: # Add your Github handle
+twitter: # Add your Twitter handle
 facebook: # Add your Facebook handle
 instagram: # Add your Instagram handle
 pinterest: # Add your Pinterest handle
 
 # Newsletter
-mailchimp: # Add your MailChimp form identifier.
+# mailchimp: # Add your MailChimp form identifier.
 
 # Disqus
-discus_identifier: mr-brown # Add your discus identifier
+# discus_identifier: mr-brown # Add your discus identifier
 
 # Tracker
 analytics: UA-114406689-1
