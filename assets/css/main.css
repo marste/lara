@@ -1080,7 +1080,7 @@ pre code {
 }
 
 .post-card-box li:hover {
- animation: shake 0.5s; 
+ transform: scale(1.5); 
 }
 
 .post-card {
