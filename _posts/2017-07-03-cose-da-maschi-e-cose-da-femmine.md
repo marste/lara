@@ -24,7 +24,7 @@ Il nostro libro della buonanotte ultimamente è **Biancaneve e i 77 nani** di D.
 <img src="{{site.baseurl}}/assets/img/biancaneve-min.jpg" alt="biancaneve-77-nani">
 
 > Editore:  EDT - Giralangolo collana Sottosopra | Ragazzi n. pagine: 36 (2016)   
-<cite>Età: da 3 anni</cite>
+**Età: da 3 anni**
 
 Già dalla copertina capiamo che non sarà "la solita Biancaneve": faccia basita/spaventata, tratti grafici ben lontani da Disney, una miriade di coloratissimi nani che la osservano saturando lo spazio completamente.
 
@@ -47,7 +47,7 @@ Insieme a questo libro, amiamo molto **Ettore, l’uomo straordinariamente forte
 <img src="{{site.baseurl}}/assets/img/ettore-min.jpg" alt="ettore-uomo-forte">
 
 > Editore: Settenove – n. pagine: 52 (2016)   
-<cite>Età: da 5 anni</cite>
+**Età: da 5 anni**
 
 Un circo di straordinari artisti, tra cui il nostro protagonista: fortissimo, adorato dal pubblico, timido e innamorato di una dolce ballerina.
 
