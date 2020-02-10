@@ -2,8 +2,8 @@ title: C'era una volta un Re - Recensioni libri per bambini
 email: lara.porrini@gmail.com
 description: Libri per i bambini, letture per i bimbi. E la storia incominciò.
 permalink: ':title/'
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.ceraunavoltaunre.it" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: ""
+url: "https://www.ceraunavoltaunre.it"
 
 # Author settings
 author: C'era una volta un Re
