@@ -2,7 +2,7 @@
 layout: post
 title: "L’uccellino fa… – Soledad Bravi"
 date: 2020-02-08 12:52:00 +0200
-description:
+description: Libri per bambini, storie (non solo) per la buonanotte, racconti e letture per giocare e leggere con i bimbi.
 img: l-uccellino-fa.jpg
 categories: [Storie di latte]
 tag: [Solead, Bravi, uccellino]

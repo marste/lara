@@ -2,7 +2,7 @@
 layout: post
 title: "Guarda c’è un buco… – A. Abbatiello e G. Mantegazza"
 date: 2017-07-04 12:54:00 +0300
-description:
+description: Libri per bambini, storie (non solo) per la buonanotte, racconti e letture per giocare e leggere con i bimbi.
 img: guarda_ce_un_buco.jpg
 categories: [Storie di latte]
 tag: [0 anni, 3 anni, rime, buco]

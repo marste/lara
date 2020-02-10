@@ -2,7 +2,7 @@
 layout: post
 title: "Cose da maschi e cose da femmine…!"
 date: 2020-02-09 13:32:20 +0300
-description:
+description: Libri per bambini, storie (non solo) per la buonanotte, racconti e letture per giocare e leggere con i bimbi.
 img: biancaneve-min.jpg
 categories: [Storie di latte]
 tags: [3 anni, 5 anni, 8 marzo, autenticità, biancaneve, 77 nani, ettore, uomo, forte, straordinariamente]

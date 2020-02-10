@@ -2,7 +2,7 @@
 layout: post
 title: "OH! Un libro che fa dei suoni – Hervè Tullet"
 date: 2020-02-08 12:55:00 +0200
-description:
+description: Libri per bambini, storie (non solo) per la buonanotte, racconti e letture per giocare e leggere con i bimbi.
 img: OH-Un-libro-che-fa-dei-suoni.jpg
 categories: [Classici]
 tag: [3 anni, Herve, suoni, Tullet]

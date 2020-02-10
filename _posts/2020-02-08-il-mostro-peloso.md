@@ -2,7 +2,7 @@
 layout: post
 title: "Il mostro peloso – H. Bichonnier e PEF"
 date: 2020-02-09 12:54:00 +0200
-description:
+description: Libri per bambini, storie (non solo) per la buonanotte, racconti e letture per giocare e leggere con i bimbi.
 img: il-mostro-peloso.jpg # Add image post (optional)
 categories: [Coperte e copertine]
 tag: [3 anni, mostro, peloso, Bichonnier]
