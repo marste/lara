@@ -1081,6 +1081,7 @@ pre code {
 
 .post-card-box li:hover {
   filter: blur(8px);
+  -webkit-filter: blur(8px);
 }
 
 .post-card {
