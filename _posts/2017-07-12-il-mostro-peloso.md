@@ -1,14 +1,15 @@
 ---
 layout: post
 title: "Il mostro peloso – H. Bichonnier e PEF"
-img: il-mostro-peloso.jpg # Add image post (optional)
-date: 2017-07-12 12:54:00 +0200
-categories: [Coperte e copertine]
+date: 2020-02-09 12:54:00 +0200
 description:
+img: il-mostro-peloso.jpg # Add image post (optional)
+categories: [Coperte e copertine]
 tag: [3 anni, mostro, peloso, Bichonnier]
+author: Lara
 ---
 > Editore: Emme edizioni – n. pagine: 36 (2014) – traduttore: G. Lughi   
-<cite>Età: da 3 anni</cite>
+**Età: da 3 anni**
 
 Storia ben ritmata di un mostriciattolo bruttarello, pelosissimo e platonicamente malvagio… perché i ridicoli piedini non lo fanno muovere dalla sua caverna.  Ma è tenace, il suo desiderio è mangiarsi un essere umano e ogni giorno rinnova questo proposito. E infondo lo capiamo, ci fa simpatia, lì tutto solo al buio a catturare topi.
 

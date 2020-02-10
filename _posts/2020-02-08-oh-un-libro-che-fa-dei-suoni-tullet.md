@@ -1,17 +1,15 @@
 ---
 layout: post
 title: "OH! Un libro che fa dei suoni – Hervè Tullet"
-img: OH-Un-libro-che-fa-dei-suoni.jpg
-image: corona.png
-share-img: corona.png
 date: 2020-02-08 12:55:00 +0200
-categories: [Classici]
 description:
-author: Lara Porrini
+img: OH-Un-libro-che-fa-dei-suoni.jpg
+categories: [Classici]
 tag: [3 anni, Herve, suoni, Tullet]
+author: Lara
 ---
 > Editore: Franco Cosimo Panini Editore (2017) – n. pagine: 68 – traduttore: F. Previati   
-<cite>Età: da 3 anni</cite>
+**Età: da 3 anni**
 
 *E come fa a suonare,  senza CD, tasti da premere o misteriose tecnologie?*
 

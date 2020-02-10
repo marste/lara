@@ -1,14 +1,15 @@
 ---
 layout: post
 title: "L’uccellino fa… – Soledad Bravi"
-img: l-uccellino-fa.jpg
 date: 2020-02-08 12:52:00 +0200
-categories: [Storie di latte]
 description:
+img: l-uccellino-fa.jpg
+categories: [Storie di latte]
 tag: [Solead, Bravi, uccellino]
+author: Lara
 ---
 > Editore: Babalibri – n. pagine: 120 (2005) – traduttore: F.Rocca   
-<cite>Età: da 0 anni</cite>
+**Età: da 0 anni**
 
 *…CIP CIP!*   
 *Come fa il cane? BAU BAU!*

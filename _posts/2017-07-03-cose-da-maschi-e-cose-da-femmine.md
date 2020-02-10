@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "Cose da maschi e cose da femmine…!"
-date:   2017-08-25 13:32:20 +0300
+date: 2020-02-09 13:32:20 +0300
 description:
 img: biancaneve-min.jpg
+categories: [Storie di latte]
 tags: [3 anni, 5 anni, 8 marzo, autenticità, biancaneve, 77 nani, ettore, uomo, forte, straordinariamente]
 author: Lara
 ---
