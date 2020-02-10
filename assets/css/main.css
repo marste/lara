@@ -1080,7 +1080,7 @@ pre code {
 }
 
 .post-card-box li:hover {
-   background: rgba(0, 0, 0, 0);
+  opacity: 0.9;
 }
 
 .post-card {
