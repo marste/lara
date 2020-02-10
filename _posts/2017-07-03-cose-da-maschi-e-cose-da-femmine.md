@@ -4,7 +4,7 @@ title: "Cose da maschi e cose da femmine…!"
 date:   2017-08-25 13:32:20 +0300
 description:
 img: biancaneve-min.jpg
-tags: [3 anni, 5 anni, 8 marzo, autenticità, biancaneve, parità, ruoli, stereotipi]
+tags: [3 anni, 5 anni, 8 marzo, autenticità, biancaneve, 77 nani, ettore, uomo, forte, straordinariamente]
 author: Lara
 ---
 Ieri, 8 marzo.
