@@ -3,7 +3,7 @@ layout: post
 title: "Cose da maschi e cose da femmine…!"
 date: 2020-02-09 13:32:20 +0300
 description: Libri per bambini, storie (non solo) per la buonanotte, racconti e letture per giocare e leggere con i bimbi.
-img: biancaneve-min.jpg
+img: biancaneve.webp
 categories: [Storie di latte]
 tags: [3 anni, 5 anni, 8 marzo, autenticità, biancaneve, 77 nani, ettore, uomo, forte, straordinariamente]
 author: Lara
@@ -22,7 +22,7 @@ Come tutte le mamme, provo ad educare le mie piccole donne, cerco di cambiare le
 
 Il nostro libro della buonanotte ultimamente è **Biancaneve e i 77 nani** di D. Calì e R. Barbanegre.
 
-<img src="{{site.baseurl}}/assets/img/biancaneve-min.jpg" alt="biancaneve-77-nani">
+<img src="{{site.baseurl}}/assets/img/biancaneve.webp" alt="biancaneve-77-nani">
 
 > Editore:  EDT - Giralangolo collana Sottosopra | Ragazzi n. pagine: 36 (2016)   
 **Età: da 3 anni**
@@ -45,7 +45,7 @@ Non vediamo l’ora di esplorare altri libri della stessa collana, che promette 
 
 Insieme a questo libro, amiamo molto **Ettore, l’uomo straordinariamente forte** *di M. Le Huche*
 
-<img src="{{site.baseurl}}/assets/img/ettore-min.jpg" alt="ettore-uomo-forte">
+<img src="{{site.baseurl}}/assets/img/ettore.webp" alt="ettore-uomo-forte">
 
 > Editore: Settenove – n. pagine: 52 (2016)   
 **Età: da 5 anni**
