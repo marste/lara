@@ -1761,5 +1761,9 @@ pre code {
   .author-box .author-desc p {
     margin: 0 0 15px;
   }
-  
+    P.drop-cap:first-letter {
+        font-size: 4.5em;
+        float: left;
+        margin-top: .15em;
+    }
 }
