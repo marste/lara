@@ -1761,4 +1761,9 @@ pre code {
   .author-box .author-desc p {
     margin: 0 0 15px;
   }
+  
+  .subhead {
+  initial-letter: 2;
+}
+
 }
