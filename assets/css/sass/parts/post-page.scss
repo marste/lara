@@ -127,6 +127,16 @@
     p {
       margin: 0;
     }
+	
+	p::first-letter {
+    text-transform: uppercase;
+    font-size: 3em;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 5px;
+}
+
+
   }
   .screen-reader-text {
     clip: rect(1px, 1px, 1px, 1px);
