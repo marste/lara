@@ -11,7 +11,7 @@ author: Lara
 > Editore: Emme edizioni – n. pagine: 36 (2014) – traduttore: G. Lughi   
 **Età: da 3 anni**
 
-Storia ben ritmata di un mostriciattolo bruttarello, pelosissimo e platonicamente malvagio… perché i ridicoli piedini non lo fanno muovere dalla sua caverna.  Ma è tenace, il suo desiderio è mangiarsi un essere umano e ogni giorno rinnova questo proposito. E infondo lo capiamo, ci fa simpatia, lì tutto solo al buio a catturare topi.
+<p><span class="dropcap">S</span></p>toria ben ritmata di un mostriciattolo bruttarello, pelosissimo e platonicamente malvagio… perché i ridicoli piedini non lo fanno muovere dalla sua caverna.  Ma è tenace, il suo desiderio è mangiarsi un essere umano e ogni giorno rinnova questo proposito. E infondo lo capiamo, ci fa simpatia, lì tutto solo al buio a catturare topi.
 
 Passa finalmente un re che si è perso nel bosco.
 

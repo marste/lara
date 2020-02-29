@@ -13,7 +13,7 @@ author: Lara
 
 *E come fa a suonare,  senza CD, tasti da premere o misteriose tecnologie?*
 
-Fin dalla prima volta che abbiamo sfogliato “Colori”, siamo appassionate fan di Hervè Tullet.
+<p><span class="dropcap">F</span></p>in dalla prima volta che abbiamo sfogliato “Colori”, siamo appassionate fan di Hervè Tullet.
 
 Se lo avete già incrociato, sapete quanto sia indimenticabile e riconoscibile: la sua grafica pulita ed essenziale, i colori primari e un ritmo di gioco – lettura avvincente, con sorprese continue.
 
