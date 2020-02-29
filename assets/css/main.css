@@ -822,12 +822,13 @@ pre code {
 }
 
 p .dropcap {
-    font: 100 4.1rem/2.1rem "GT Sectra Fine";
-    text-transform: uppercase;
-    color: #fb5954;
-    padding: 0 .32rem 0 0;
-    margin: 0.8rem 0 .37rem;
     float: left;
+    font-size: 75px;
+    color: #903;
+    line-height: 60px;
+    padding-top: 4px;
+    padding-right: 8px;
+	padding-left: 3px;
 }
 
 .flex-container {
