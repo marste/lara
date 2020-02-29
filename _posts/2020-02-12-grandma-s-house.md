@@ -8,4 +8,4 @@ categories: [Storie di latte]
 tags: [3 anni, 5 anni, grandma, nonna, house, alice, melvin]
 author: Lara
 ---
-A breve la recensione del libro.
+<p><span class="dropcap">A</span></p> breve la recensione del libro.
