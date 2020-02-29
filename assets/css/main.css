@@ -822,7 +822,8 @@ pre code {
 }
 
 p .dropcap {
-    float: left;
+    font-family: 'Alice';
+	float: left;
     font-size: 75px;
     color: #311e3e;
     line-height: 60px;
