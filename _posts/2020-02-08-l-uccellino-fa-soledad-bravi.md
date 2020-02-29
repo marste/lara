@@ -14,7 +14,7 @@ author: Lara
 *…CIP CIP!*   
 *Come fa il cane? BAU BAU!*
 
-<div class="dropcap">I</div>n  tutto il mondo cominciamo così a tradurre la realtà per i nuovi piccoli arrivati, per conquistare il loro sorriso e rendere familiare ciò che li circonda.
+<p id="dropcap">I</p>n  tutto il mondo cominciamo così a tradurre la realtà per i nuovi piccoli arrivati, per conquistare il loro sorriso e rendere familiare ciò che li circonda.
 
 Questo libro ci aiuta: è un cartonato maneggevole e resistente, netto e accattivante nella grafica, perfetto per le manine più piccole. Ne esistono edizioni con meno pagine se vi sembra un po’ voluminoso, magari da trovare in biblioteca.
 
