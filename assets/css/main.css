@@ -901,8 +901,8 @@ p .dropcap {
 
 /* = = = = = = = = = = Header Styles = = = = = = = = = = */
 .main-header {
-  font-family: 'Lato', sans-serif;
-  padding: 15px 0;
+  font-family: 'Alice', sans-serif;
+  padding: 25px 0;
   background-color: #fff;
   -webkit-box-shadow: 0px -5px 15px rgba(0, 0, 0, 0.3);
           box-shadow: 0px -5px 15px rgba(0, 0, 0, 0.3);
