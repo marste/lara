@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Il mostro peloso – H. Bichonnier e PEF"
-date: 2020-02-09 12:54:00 +0200
+date: 2020-02-12 12:54:00 +0200
 description: Libri per bambini, storie (non solo) per la buonanotte, racconti e letture per giocare e leggere con i bimbi.
 img: il-mostro-peloso.webp
 categories: [Coperte e copertine]
@@ -11,7 +11,7 @@ author: Lara
 > Editore: Emme edizioni – n. pagine: 36 (2014) – traduttore: G. Lughi   
 **Età: da 3 anni**
 
-Storia ben ritmata di un mostriciattolo bruttarello, pelosissimo e platonicamente malvagio… perché i ridicoli piedini non lo fanno muovere dalla sua caverna.  Ma è tenace, il suo desiderio è mangiarsi un essere umano e ogni giorno rinnova questo proposito. E infondo lo capiamo, ci fa simpatia, lì tutto solo al buio a catturare topi.
+<p><span class="dropcap">S</span></p>toria ben ritmata di un mostriciattolo bruttarello, pelosissimo e platonicamente malvagio… perché i ridicoli piedini non lo fanno muovere dalla sua caverna.  Ma è tenace, il suo desiderio è mangiarsi un essere umano e ogni giorno rinnova questo proposito. E infondo lo capiamo, ci fa simpatia, lì tutto solo al buio a catturare topi.
 
 Passa finalmente un re che si è perso nel bosco.
 

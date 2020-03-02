@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Guarda c’è un buco… – A. Abbatiello e G. Mantegazza"
-date: 2017-07-04 12:54:00 +0300
+date: 2020-02-08 12:54:00 +0300
 description: Libri per bambini, storie (non solo) per la buonanotte, racconti e letture per giocare e leggere con i bimbi.
 img: guarda_ce_un_buco.jpg
 categories: [Storie di latte]
@@ -11,7 +11,7 @@ author: Lara
 > Editore: La Coccinella – n. pagine: 24 (2014)   
 **Età: da 3 anni**
 
-L’illustratrice di questo cartonato ci è molto cara: con Antonella Abbatiello troviamo immagini definite eppure sognanti, sa essere narratrice ed evocatrice con le immagini, ha lavorato con autori come Piumini…insomma, da scoprire e riscoprire.
+<p><span class="dropcap">L</span></p>’illustratrice di questo cartonato ci è molto cara: con Antonella Abbatiello troviamo immagini definite eppure sognanti, sa essere narratrice ed evocatrice con le immagini, ha lavorato con autori come Piumini…insomma, da scoprire e riscoprire.
 
 Il libro che vi suggerisco ora – e che fa parte della collana "I Buchini" – nella nostra esperienza può esser proposto ben prima dei 3 anni consigliati. Le mie piccole lo hanno cominciato ad apprezzare attorno agli 8 mesi.
 

@@ -8,7 +8,7 @@ categories: [Storie di latte]
 tags: [3 anni, 5 anni, 8 marzo, autenticità, biancaneve, 77 nani, ettore, uomo, forte, straordinariamente]
 author: Lara
 ---
-Ieri, 8 marzo.
+<p><span class="dropcap">I</span></p>eri, 8 marzo.
 
 Ogni anno mi fermo a pensare sul significato di questo giorno: per me resta la non completa e naturale parità ed accettazione dell’essere donna.
 

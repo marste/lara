@@ -821,6 +821,17 @@ pre code {
   padding-left: 0;
 }
 
+p .dropcap {
+    font-family: 'Alice';
+	float: left;
+    font-size: 75px;
+    color: #311e3e;
+    line-height: 60px;
+    padding-top: 4px;
+    padding-right: 8px;
+	padding-left: 3px;
+}
+
 .flex-container {
   display: -webkit-box;
   display: -webkit-flex;
@@ -890,7 +901,7 @@ pre code {
 
 /* = = = = = = = = = = Header Styles = = = = = = = = = = */
 .main-header {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Alice', sans-serif;
   padding: 15px 0;
   background-color: #fff;
   -webkit-box-shadow: 0px -5px 15px rgba(0, 0, 0, 0.3);
@@ -954,7 +965,7 @@ pre code {
   text-decoration: none;
   text-transform: uppercase;
   font-weight: 400;
-  font-size: 18px;
+  font-size: 25px;
   color: #311e3e;
 }
 
@@ -1214,9 +1225,9 @@ pre code {
 }
 
 .header-page h1 {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Alice', sans-serif;
   font-weight: 400;
-  font-size: 36px;
+  font-size: 40px;
   text-align: center;
   margin: 0 0 20px;
   color: #311e3e;
@@ -1674,7 +1685,7 @@ pre code {
     margin-bottom: 20px;
   }
   .header-page h1 {
-    font-size: 27px;
+    font-size: 30px;
     margin: 0 0 10px;
   }
   .header-page .page-date {
@@ -1761,4 +1772,5 @@ pre code {
   .author-box .author-desc p {
     margin: 0 0 15px;
   }
+   
 }
