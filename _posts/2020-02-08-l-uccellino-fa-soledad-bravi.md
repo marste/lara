@@ -19,7 +19,7 @@ author: Lara
 Questo libro ci aiuta: è un cartonato maneggevole e resistente, netto e accattivante nella grafica, perfetto per le manine più piccole. Ne esistono edizioni con meno pagine se vi sembra un po’ voluminoso, magari da trovare in biblioteca.
 
 Una breve frase sulla pagina di sinistra ci presenta che suono caratterizza un oggetto, animale, personaggio; la pagina di destra lo raffigura.  Sfogliamo, facciamo versi e mostriamo immagini semplici, riconoscibili e colorate. Siamo sempre di esempio per il nostro giovanissimo ascoltatore che presto proverà a imitarci; da subito riderà appena vedrà le sue pagine preferite, guardando la faccia buffa di chi legge. E ne verrà attratto appena lo appoggeremo dopo averlo letto: il miglior modo per introdurlo alla magia dei libri.
-<center><img src="https://www.ceraunavoltaunre.it/wp/wp-content/uploads/2018/02/uccellino-300x148.jpg" alt="mamma-fa-coccole"></center>
+<center><img src="https://ceraunavoltaunre.it/assets/img/mamma-fa-coccole.jpg" alt="mamma-fa-coccole"></center>
 Doverosa avvertenza – Potreste non essere d’accordo con tutte le pagine, ma questo dà ancora più spazio all’interpretazione e alle risate dei vostri piccoli.
 
 Se per me pecora e capra hanno sempre fatto lo stesso verso (!), credo sia invece un caposaldo di ogni famiglia che il bebè strilli (uèèèèè), il papà invochi il silenzio (ssssst!) e la mamma…beh, la mamma….
