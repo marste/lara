@@ -21,8 +21,8 @@ author: Lara
 La storia narra il viaggio del Signor Bastoncino, padre di una famiglia di rametti, che – in quanto scambiato per un semplice pezzo di legno – sarà utilizzato per giocare, riparare nidi, far sventolare bandiere su castelli di sabbia. Nessuno resiste alla tentazione di farci qualcosa e il Signor Bastoncino ricorda continuamente a tutti, sempre più arrabbiato e infine stanco, di non essere un comune ramoscello.
 Ma anche nella sua difficoltà più grande trova la forza di aiutare una misteriosa presenza incastrata in un camino…
 
-La storia è in rima, con un ritmo e una scelta lessicale coinvolgenti, le illustrazioni riconoscibili e pulite, al punto da essere diventato anche un cortometraggio da assaporare, insieme a una cioccolata calda.
-https://www.dailymotion.com/video/x702psn
+La storia è in rima, con un ritmo e una scelta lessicale coinvolgenti, le illustrazioni riconoscibili e pulite, al punto da essere diventato anche un cortometraggio da assaporare, insieme a una cioccolata calda.   
+<a href="https://www.dailymotion.com/video/x702psn" target="_blank">Bastoncino</a>   
 
 
 
