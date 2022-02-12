@@ -45,7 +45,7 @@ Non vediamo l’ora di esplorare altri libri della stessa collana, che promette 
 
 Insieme a questo libro, amiamo molto **Ettore, l’uomo straordinariamente forte** *di M. Le Huche*
 
-<img src="{{site.baseurl}}/assets/img/ettore.jpg" alt="ettore-uomo-forte">
+<img src="{{site.baseurl}}/assets/img/ettore-min.jpg" alt="ettore-uomo-forte">
 
 > Editore: Settenove – n. pagine: 52 (2016)   
 **Età: da 5 anni**

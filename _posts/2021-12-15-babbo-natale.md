@@ -8,11 +8,11 @@ categories: [Natale]
 tag: [Babbo Natale, Natale, Bastoncino, Viaggio]
 author: Lara
 ---
-  
+   
 **Età: da 3 anni**
 
 *Se la risposta è SI'*   
-*Bastoncino* di Donaldson e Scheffler"
+*Bastoncino* di Donaldson e Scheffler"   
 
 > Editore: Emme Edizioni – n. pagine: 34 (2018) – traduttore: A.Remondi 
 
