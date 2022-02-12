@@ -22,7 +22,7 @@ La storia narra il viaggio del Signor Bastoncino, padre di una famiglia di ramet
 Ma anche nella sua difficoltà più grande trova la forza di aiutare una misteriosa presenza incastrata in un camino…
 
 La storia è in rima, con un ritmo e una scelta lessicale coinvolgenti, le illustrazioni riconoscibili e pulite, al punto da essere diventato anche un cortometraggio da assaporare, insieme a una cioccolata calda.   
-<a href="https://www.dailymotion.com/video/x702psn" target="_blank">Bastoncino</a>   
+Clicca qui per vederlo: <a href="https://www.dailymotion.com/video/x702psn" target="_blank">Bastoncino</a>   
 
 
 
