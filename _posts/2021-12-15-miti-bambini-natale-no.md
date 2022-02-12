@@ -12,8 +12,7 @@ author: Lara
 **Età: da 7 anni**
 
 *Se la risposta è NO*   
-*Miti bambini*
-title: "Miti bambini - G. Caliceti"
+*Miti bambini* di G. Caliceti"
 
 > Editore: Bompiani - saggi di narrativa – n. pagine: 169 (2017) 
 
