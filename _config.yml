@@ -28,7 +28,7 @@ pinterest: # Add your Pinterest handle
 # discus_identifier: mr-brown # Add your discus identifier
 
 # Tracker
-analytics: UA-114406689-1
+analytics: 
 
 # Paginate
 paginate: 6
